@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+doc/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+Lib/
+lib64/
+parts/
+sdist/
+var/
+venv/
+watchlistURL.txt
+watchlistDataURL.txt
+Watchlist.csv
